@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "656570534970",
+    "firebase_url": "https://aming-chat-5d3ab.firebaseio.com",
+    "project_id": "aming-chat-5d3ab",
+    "storage_bucket": "aming-chat-5d3ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656570534970:android:9870c3187fa4090f",
+        "android_client_info": {
+          "package_name": "com.example.chaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656570534970-kv645j6jnfh0es09m7svr1i32cuv6j84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByfCl8Fm4_-lJ-eEW3ghMv04l2NgmSKIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
